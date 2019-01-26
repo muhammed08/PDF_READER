@@ -1,6 +1,8 @@
 # PDF_READER
 A software that read a pdf for you
 A gui program developed in python(3.x) that allows you to choose a pdf and a page and read it for you
+
+
 How to run the program
 ----------------------
 1) run pdf_reader.py
